@@ -1,0 +1,3 @@
+# Hackintosh
+
+Configurations for AMD.
