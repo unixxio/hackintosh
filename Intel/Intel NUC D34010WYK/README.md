@@ -1,6 +1,6 @@
 # Intel NUC D34010WYK
 
-### General hardware information
+**General hardware information**
 
 * 1,7 GHz Dual-Core Intel Core i3 (Ivy Lake)
 * 8 GB (2x 4 GB) 1600 MHz DDR3
@@ -9,3 +9,18 @@
 * WiFi AC + Bluetooth (Broadcom BCM43xx)
 * Intel LAN
 
+**Tested macOS Versions**
+
+* macOS Catalina 10.15.4
+
+**Supported**
+
+* Graphics
+* Audio
+* WiFi
+* Bluetooth
+* Sleep and wake
+
+**Unsupported**
+
+* Nothing yet

@@ -1,3 +1,3 @@
-# OpenCore
+# Hackintosh
 
 OpenCore versions.
